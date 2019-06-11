@@ -1,3 +1,3 @@
 # ejemploClase
 
-hola clase
+hola clase!
